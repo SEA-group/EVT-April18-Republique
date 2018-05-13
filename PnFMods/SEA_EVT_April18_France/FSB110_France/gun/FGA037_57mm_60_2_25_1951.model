@@ -1,0 +1,9 @@
+<FGA037_57mm_60_2_25_1951.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/france/gun/aaircraft/FGA511_57mm_60_2_25_Space/lods/FGA511_57mm_60_2_25_Space_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<materialNames />
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	content/gameplay/france/gun/aaircraft/FGA511_57mm_60_2_25_Space/FGA511_57mm_60_2_25_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGA037_57mm_60_2_25_1951.model>

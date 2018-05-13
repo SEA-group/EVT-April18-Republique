@@ -1,0 +1,9 @@
+<FGS036_127mm_54_5_1948.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/france/gun/secondary/FGS512_127mm_54_5_Space/lods/FGS512_127mm_54_5_Space_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/france/gun/secondary/FGS512_127mm_54_5_Space/FGS512_127mm_54_5_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGS036_127mm_54_5_1948.model>

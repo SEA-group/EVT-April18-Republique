@@ -1,0 +1,8 @@
+<FSB010_France_1957.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/france/ship/battleship/FSB020_France_Space_1957/lods/FSB020_France_Space_1957_Full_lod4	</parent>
+	<extent>	400.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/france/ship/battleship/FSB020_France_Space_1957/FSB020_France_Space_1957	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FSB010_France_1957.model>

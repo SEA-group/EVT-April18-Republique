@@ -1,0 +1,8 @@
+<FGS053_152_55_Mle_1950.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/france/gun/secondary/FGS510_152_55_Mle_1950_Space/lods/FGS510_152_55_Mle_1950_Space_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/france/gun/secondary/FGS510_152_55_Mle_1950_Space/FGS510_152_55_Mle_1950_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGS053_152_55_Mle_1950.model>

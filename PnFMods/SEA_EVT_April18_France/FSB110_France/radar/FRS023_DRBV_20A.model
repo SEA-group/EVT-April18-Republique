@@ -1,0 +1,19 @@
+<FRS023_DRBV_20A.model>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation5rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<exporter>	1.6	</exporter>
+	<materialNames />
+	<extent>	3.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<animation>
+		<name>	Rotation5rpm	</name>
+		<frameRate>	30	</frameRate>
+		<nodes>	content/animation/common/Rotation5rpm	</nodes>
+	</animation>
+	<parent>	PnFMods/SEA_EVT_April18_France/FSB110_France/radar/FRS023_DRBV_20A_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_EVT_April18_France/FSB110_France/radar/FRS023_DRBV_20A	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FRS023_DRBV_20A.model>

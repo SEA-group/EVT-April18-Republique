@@ -1,0 +1,8 @@
+<FGM051_430_50_Mle_1940_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/france/gun/main/FGM513_430_50_Mle_1940_Space/lods/FGM513_430_50_Mle_1940_Space_dead_lod1	</parent>
+	<nodefullVisual>	content/gameplay/france/gun/main/FGM513_430_50_Mle_1940_Space/FGM513_430_50_Mle_1940_Space_dead	</nodefullVisual>
+	<extent>	3.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGM051_430_50_Mle_1940_dead.model>
