@@ -1,6 +1,6 @@
 <FD037_4m_Night_rangefinder.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_EVT_April18_France/FSB110_France/director/FD037_4m_Night_rangefinder_lod1	</parent>
+	<parent>	PnFMods/SEA_EVT_April18_France/FSB110_France/director/lods/FD037_4m_Night_rangefinder_lod1	</parent>
 	<extent>	5.0000	</extent>
 	<castsShadow>	false	</castsShadow>
 	<materialNames />

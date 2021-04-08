@@ -13,7 +13,7 @@
 		<frameRate>	30	</frameRate>
 		<nodes>	content/animation/common/Rotation5rpm	</nodes>
 	</animation>
-	<parent>	PnFMods/SEA_EVT_April18_France/FSB110_France/radar/FRS023_DRBV_20A_lod1	</parent>
+	<parent>	PnFMods/SEA_EVT_April18_France/FSB110_France/radar/lods/FRS023_DRBV_20A_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_EVT_April18_France/FSB110_France/radar/FRS023_DRBV_20A	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FRS023_DRBV_20A.model>

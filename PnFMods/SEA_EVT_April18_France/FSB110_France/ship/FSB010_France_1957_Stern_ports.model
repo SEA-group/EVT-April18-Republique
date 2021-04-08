@@ -2,6 +2,6 @@
 	<exporter>	1.6	</exporter>
 	<extent>	200.0000	</extent>
 	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	content/gameplay/france/ship/battleship/FSB020_France_Space_1957/FSB020_France_Space_1957_Stern_ports	</nodefullVisual>
+	<nodefullVisual>	PnFMods/SEA_EVT_April18_France/FSB110_France/ship/FSB010_France_1957_Stern_ports	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FSB010_France_1957_Stern_ports.model>
